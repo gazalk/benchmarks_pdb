@@ -1,0 +1,5 @@
+project( benchmarks )
+CMAKE_MINIMUM_REQUIRED(VERSION 2.4.5)
+include_directories(/home/gazal/Documents/codes/pdb-benchmarks-master/ESBTL/ESBTL-1.0-beta01/include/)
+add_executable(parse parse.cc)
+add_executable(atom_count atom_count.cc)
