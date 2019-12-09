@@ -64,3 +64,5 @@ HETATM 1056 CL2  F7T A 206     -21.811  -1.069 -26.797  0.25 40.93          CL
 
 HETATM 1057 CL2  F7T A 206     -23.759  -0.377 -24.485  0.25 31.66          CL  
 ```
+# Cite
+Kalyan, Gazal, et al. "Parsers, Data Structures and Algorithms for Macromolecular Analysis Toolkit (MAT): Design and Implementation." bioRxiv (2019): 605907.
