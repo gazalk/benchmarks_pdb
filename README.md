@@ -35,7 +35,7 @@ Considering a large number of files that were not being able to parse by ESBTL a
 ../pdb3zhv.ent, Fatal error: Cannot extract field 'charge' in 
 <|HETATM25082 MG    MG A2002      -3.402  18.399 -47.244  1.00 27.31          MG+2|>
 ```
-This lead us to believe that ESBTL throws a fatal error when it is unable to extract 'charge'. Hopefully, this can be corrected in coming updates of the software.
+This lead us to believe that ESBTL throws a fatal error when it is unable to extract 'charge'. A total of 132 errors were encountered. hopefully, this can be corrected in coming updates of the software.
 
 ### Victor C++
 
@@ -44,6 +44,8 @@ This lead us to believe that ESBTL throws a fatal error when it is unable to ext
 Segmentation fault (core dumped)
 ```
 6hg5, 1w0s, 2aar, 2agt, 2auu, and 4kan also encountered segfaults, therefore, the exact reason for these errors are unknown.
+
+A total of 964 errors were encountered.
 
 ### BioJulia
 Only two file were not read, due to have same alternative location ID for two atoms.
