@@ -48,7 +48,7 @@ Segmentation fault (core dumped)
 A total of 964 errors were encountered.
 
 ### BioJulia
-Only two file were not read, due to have same alternative location ID for two atoms.
+Only two file were not read, due to having same alternative location ID for two atoms.
 
 * 6job
 ```
