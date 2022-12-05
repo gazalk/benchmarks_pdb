@@ -59,7 +59,7 @@ HETATM 1111 CL2  F6Q A 205     -24.216   -0.76 -24.948  0.65  28.3          CL
 ```
 * 6joh
 ```
-ERROR: LoadError: Two copies of the same atom have the same alternative location ID:
+ERROR: LoadError: Two copies of the same atom having the same alternative location ID:
 HETATM 1056 CL2  F7T A 206     -21.811  -1.069 -26.797  0.25 40.93          CL  
 
 HETATM 1057 CL2  F7T A 206     -23.759  -0.377 -24.485  0.25 31.66          CL  
